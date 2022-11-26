@@ -9,3 +9,5 @@ We use this site to publish course notes. Source are cited and linked when possi
 - [[Published Notes/Map is not territory - MG 1\|Map is not territory - MG 1]]
 - [[Published Notes/Architecture  and Pottery Tell Sabi Abyad PUBLISH\|Architecture  and Pottery Tell Sabi Abyad PUBLISH]]
 - [[Published Notes/The Classic Gnostic Myth - MG\|The Classic Gnostic Myth - MG]]
+
+- [Live Excalidraw Whiteboard](https://excalidraw.com/#room=9add690d6076ad0a0932,IP7eTQBHh_xEX3-JjNTCIw)
