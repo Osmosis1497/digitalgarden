@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/published-notes/class-notes/","tags":"gardenEntry"}
 ---
 
+[Class Notes Homepage](<http://moonlit-medovik-2628dc.netlify.app>)
+
 
 We use this site to publish course notes. Source are cited and linked when possible.  Please contact me if you find something amiss. If you provide some sources and are convincing, I'll certainly update things.
 
