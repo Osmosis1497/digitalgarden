@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/published-notes/map-is-not-territory-class-notes/","tags":"gardenEntry"}
 ---
 
-
+# Map is not territory
 > All for ourselves, and nothing for other people, seems, in every age of the world, to have been the vile maxim of the masters of mankind. [(A. Smith, 1776)](https://www.zotero.org/google-docs/?wiEZCY)
 
 Historically, scholars, theologians, and states have used “religious studies” as a tool to measure, abstract, and manage other humans. To illustrate, let's look at “Moral and Political Chart of the Known World”, an incredibly dense map from 1845 by W. C. Woodbridge. Further, we will look at a colorized version along with a crop of the legend, the ideas behind it, an example from the eastern Cape, and end with a challenge to the imagination. 
